@@ -28,7 +28,7 @@ landing-proyectos/
 ├── index.html # Página principal
 ├── styles.css # Estilos globales
 ├── script.js # Lógica JavaScript
-└── README.txt # Este documento de descripción
+└── README.md # Este documento de descripción
 
 ---
 
